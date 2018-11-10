@@ -62,7 +62,7 @@ body {
 	padding-left: 20px;
 	padding-bottom: 30px;
 	color: #354b5e;
-	background-image: url("https://phandroid.s3.amazonaws.com/wp-content/uploads/2015/07/camping-wallpaper-5.jpg") !important;
+	background-image: url("dulichbuonmathuot/images/background.jpg") !important;
 	background-repeat: repeat;
 	background-size: 100%;
 }
